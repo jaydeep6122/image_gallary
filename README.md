@@ -1,16 +1,23 @@
-# image_gallery
+# Image Gallery Flutter App
 
-A new Flutter project.
+A simple Flutter app that displays an image gallery with basic functionalities.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Display a grid of images
+- Tap on an image to view it in full screen
+- Fatching Image from API
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Main Page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Main Page](https://github.com/jaydeep6122/image_gallary/blob/main/Screenshot/photo_2024-01-23_22-35-13.jpg)
+
+### Popup Page
+![Pop Up](https://github.com/jaydeep6122/image_gallary/blob/main/Screenshot/photo_2024-01-23_22-35-11.jpg)
+
+### Video 
+
+[![Demo Video](https://github.com/jaydeep6122/image_gallary/blob/main/Screenshot/photo_2024-01-23_22-35-13.jpg)](https://github.com/jaydeep6122/image_gallary/blob/main/Screenshot/video_2024-01-23_22-41-36.mp4)
+
